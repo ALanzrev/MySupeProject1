@@ -1,2 +1,2 @@
-# MySupeProject1
+# MySuperProject1
 Test
